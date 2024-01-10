@@ -3,9 +3,9 @@
 //
 
 #include <stdio.h>
-//
-//int main() {
-//    printf("%10d\n", 42);
-//    return 0;
-//}
+
+int main() {
+    printf("%10d\n", 42);
+    return 0;
+}
 

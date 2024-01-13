@@ -1,9 +1,9 @@
 cmake_minimum_required(VERSION 3.26)
-project(Week 2 exercises)
+project(Week_2_exercises)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Week 2 exercises 1.c
+add_executable(Week_2_exercises 1.c
         2.c
         3.c
         4.c

@@ -1,9 +1,9 @@
 cmake_minimum_required(VERSION 3.26)
-project(pract5)
+project(Week_5_exercises)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(pract5
+add_executable(Week_5_exercises
         1.c
         2.c
         3.c

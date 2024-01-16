@@ -46,6 +46,8 @@ counting what fraction of the points land inside a unit circle that is cocentric
 inside the circle is easy: the distance between the point and the centre of the square, calculated using Pythagoras’
 Theorem, must be *<* 1.
 
+![image](https://github.com/MaksymAndreiev/KUAS_C/assets/29687267/73af237c-d343-462d-bcd7-9b1fbbdb33de)
+
 A graphical illustration of the simulation is shown. Random points in the square bounded by (0, 0)
 and (2, 2) are generated. The number of points lying within the circle are tallied. The 2x2 square has an
 area of 4. The circle has an area of *πr*<sup>2</sup> = *π* (since *r* = 1). The number of
@@ -228,6 +230,8 @@ Your program should accept zero or one command-line argument. With one argument,
 to be printed. With no argument, it should start in the current working directory ‘.’. Your program should subsequently
 ignore the two standard directory entries ‘.’ and ‘..’ in any subdirectories that it traverses. Given the following
 hierarchy the output of the program might look like this:
+
+![image](https://github.com/MaksymAndreiev/KUAS_C/assets/29687267/04b3130b-9044-4a6a-811b-e0a88e2ef957)
 
 ```
 $ ./listfiles /home
